@@ -25,7 +25,7 @@ public class hw1_1_15_04 {
 
         System.out.printf("Сумма чисел от 1 до %d = %d\n", n_number, n_sum);
         System.out.printf("Произведение чисел от 1 до %d = %d", n_number, n_multiplier);
-        
+        sc.close();
     }
     
 }
