@@ -1,3 +1,7 @@
+/*
+ * 1) Пусть дан LinkedList с несколькими элементами. Реализуйте метод(не void), 
+ * который вернет “перевернутый” список.
+ */
 package java_gb_23.Homework.hw4;
 
 import java.util.ArrayList;
